@@ -9,13 +9,12 @@ redirect_from:
 
 Hi, I'm **Logoshahwind**, an LLM Researcher focused on improving reasoning, adaptability, and alignment in large language models.
 
-My recent work spans:
-- Optimizing contextual reasoning in LLMs
-- Building adaptive learning systems for model improvement
-- Enhancing LLM capabilities through targeted training and evaluation
-- Exploring collaborative benchmarking and agent workflows
+Recent updates from email-verified activity:
+- **COML 2025:** "Ipsum Lorem is all you need" is accepted and selected for an **oral presentation** (top ~1%, 12-minute talk + 2-minute Q&A, in-person only).
+- **LCFM 2025:** Accepted invitation to serve as a **Reviewer**.
+- **Research impact:** New citations recorded; current Scholar metrics in the notification: **127 total citations, h-index 8, i10-index 6**.
 
-You can find my active project repositories on [GitHub](https://github.com/logoshahwind), including:
+My active project repositories include:
 - [optimizing-llms-contextual-reasoning](https://github.com/logoshahwind/optimizing-llms-contextual-reasoning)
 - [llm-adaptive-learning](https://github.com/logoshahwind/llm-adaptive-learning)
 - [enhancing-llms](https://github.com/logoshahwind/enhancing-llms)
