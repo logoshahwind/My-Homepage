@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Optimizing LLMs Contextual Reasoning"
+excerpt: "Research project focused on improving how large language models use context during reasoning.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[optimizing-llms-contextual-reasoning](https://github.com/logoshahwind/optimizing-llms-contextual-reasoning) explores methods to improve contextual reasoning in LLMs, helping models make better use of provided information when solving complex tasks.
